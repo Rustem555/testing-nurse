@@ -2,6 +2,11 @@
 
 Мобильное приложение для прохождения квалификационных тестов медицинскими сёстрами. Поддерживает несколько тематических курсов, демо-режим, оплату доступа и админ-панель.
 
+**Опубликовано в сторах:**
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mycompany.testingnurse1)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ru/app/testingnurse/id6472431164)
+
 ## Возможности
 
 - **Регистрация и авторизация** — email/пароль через Supabase Auth, восстановление пароля
